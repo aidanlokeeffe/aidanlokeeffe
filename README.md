@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aidan
 - 👀 I’m interested in complex network science, connectomics, and all kinds of advanced mathematics.
 - 🌱 I’m currently learning about the field nicknamed "dynomics", where various dynamical processes are studied on recorded brain networks to understand the brain's dynamical properties.
-- 💞️ I’m looking to collaborate on pretty much anything related to my interests
+- 💞️ I’m looking to collaborate on pretty much anything related to my interests.
 - 📫 How to reach me: aidanlokeeffe@gmail.com
 
 <!---
