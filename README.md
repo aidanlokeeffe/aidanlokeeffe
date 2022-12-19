@@ -1,4 +1,4 @@
-Hello! I’m Aidan. You can reach me at aidanlokeeffe@gmail.com.
+Hello! I’m Aidan. You can reach me at aidanlokeeffe@gmail.com. My secondary email is aidanlokeeffe@utexas.edu.
 
 I have recently been working on an exploratory analysis of heart rate variability (HRV) in preterm neonates. At this very moment, in order of priority, I am:
   1) Refactoring the code for the HRV project so as to place it in a repository here on GitHub, and wrapping up a writeup of this project,
