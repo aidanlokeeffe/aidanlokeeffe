@@ -26,7 +26,7 @@ Since graduating, I have had ecclectic experiences. I've listed months of data s
   1) An NSF funded research project in network science in the Summer of 2021 (2 months),
   2) Joining up with an AI consulting startup in the Fall of 2021 (arguably 4 months),
   3) Bereavement and trying different approaches to the network science problem in the Spring of 2022 (arguably 4 months),
-  4) Undergraduate biology and physics coursework in the Summer of 2022 (arguably 1 month),
+  4) [Undergraduate biology and physics coursework](https://github.com/aidanlokeeffe/summer_2022_labs) in the Summer of 2022 (arguably 1 month),
   5) An [undergraduate reserach course](https://github.com/aidanlokeeffe/nicu_hrv_analysis) in the Fall of 2022 (6 months),
   6) Breaking my ankle and using the healing time to upskill in data science, in the Spring of 2023. This includes working on [Google's Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate) (5 months' worth, soon to be 6).
 
