@@ -1,4 +1,4 @@
-Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Python programmer, and budding data scientist.
+Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Python programmer, and budding data scientist. I have at least a year's worth of experience relevant to data analytics, depending on how you count it.
 
 ## Ongoing activities
 Currently, I'm working on:
