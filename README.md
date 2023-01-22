@@ -33,9 +33,9 @@ Since graduating, I have had ecclectic experiences. I've listed months of data s
 This is how I can claim that I have between 12 and 22 months of experience.
 
 ## Purpose
-I have many motivations for pursuing data science. The most noble of these is a sense of responsibility to help address climate change. Like many my age, I've been steeped in warnings about climate change since my childhood, and this have given me an urge to do something about it. I believe that the tools and methods of data science will be crucial in actually solving these problems, as they enable us to understand and control things far larger than what traditional means can handle. I want to be a part of this movement.
+I have many motivations for pursuing data science. The most noble of these is a sense of responsibility to help address climate change. Like many my age, I've been steeped in warnings about climate change since my childhood, and this have given me an urge to do something about it. I believe that the tools and methods of data science will be crucial in actually solving this problems, as they enable us to understand and control things far larger than what traditional means can handle. I want to be a part of this movement.
 
-It is invigorating to keep some higher purpose like this in mind, but it's also important (perhaps moreso) to keep one's feet on the ground and focus on what can be done right now.
+It is invigorating to keep some higher purpose like this in mind, but it's also important (perhaps moreso) to keep one's feet on the ground and focus on what can be done right now. For me, in my current circumstances, the best bet I've got is to become established in data science.
 
 The other motivations are achieving financial security and building a foundation for a family; you know, simple and pragmatic things that almost everyone wants.
 
