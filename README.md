@@ -2,9 +2,9 @@ Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Py
 
 ## Ongoing activities
 Currently, I'm working on:
-  1) [Completing Google's Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate),
+  1) Completing a [capstone project](https://github.com/aidanlokeeffe/bellabeat-case-study) for [Google's Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate),
   2) Applying for data analytics jobs, and
-  3) [A personal project in network science.](https://github.com/aidanlokeeffe/bran-survival-analysis) Specifically, learning survival analysis for the niche application of understanding how a network's structure relates to the survival of messages under the action of a particular interacting particle system. If this sounds like gobbledygook, that's okay; it's a hard project. It'll make sense when it's done.
+  3) [A personal project in network science.](https://github.com/aidanlokeeffe/bran-survival-analysis) Specifically, learning survival analysis for the niche application of understanding how a network's structure relates to the survival of messages under the action of a particular interacting particle system. Even though this is an uphill battle, I'm really excited about this project because I get to use a data-analytic approach to solve a problem that's quite mathematical in character.
 
 ## Completed projects
 If you're interested in seeing any of my completed projects, here's a list of them in reverse chronological order:
