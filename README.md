@@ -2,11 +2,12 @@ Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Py
 
 ## Ongoing activities
 Currently, I'm working on:
-  1) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning)
+  1) Learning VBA and GIS in preparation for a job (yay!),
+  2) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning)
 
 ## Completed projects
 If you're interested in seeing any of my completed projects, here's a list of them in reverse chronological order:
-  1) [Coursework for Google Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate)
+  1) [Coursework for Google Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate), completed 1/26/2023
   2) [Analysis of Heart Rate Variability in Preterm Infants to Predict Sepsis](https://github.com/aidanlokeeffe/nicu_hrv_analysis), completed 1/19/2023.
   3) [Bevonia: Princess Knight](https://aidanlokeeffe.github.io/Bevonia-Princess-Knight/), completed 12/9/2018. This is slow to load, but it will.
 
