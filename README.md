@@ -2,15 +2,13 @@ Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Py
 
 ## Ongoing activities
 Currently, I'm working on:
-  1) Completing a [capstone project](https://github.com/aidanlokeeffe/bellabeat-case-study) for [Google's Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate),
-  2) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning),
-  3) Applying for data analytics jobs, and
-  4) [A personal project in network science.](https://github.com/aidanlokeeffe/bran-survival-analysis) Specifically, learning survival analysis for the niche application of understanding how a network's structure relates to the survival of messages under the action of a particular interacting particle system. This is a long term project, and every time I learn a new data science skill, I get a little closer to figuring out what to do. I've used this project as a concrete objective that motivates me to keep on learning.
+  1) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning)
 
 ## Completed projects
 If you're interested in seeing any of my completed projects, here's a list of them in reverse chronological order:
-  1) [Analysis of Heart Rate Variability in Preterm Infants to Predict Sepsis](https://github.com/aidanlokeeffe/nicu_hrv_analysis), completed 1/19/2023.
-  2) [Bevonia: Princess Knight](https://aidanlokeeffe.github.io/Bevonia-Princess-Knight/), completed 12/9/2018. This is slow to load, but it will.
+  1) [Coursework for Google Data Analytics Certificate](https://github.com/aidanlokeeffe/data-analytics-certificate)
+  2) [Analysis of Heart Rate Variability in Preterm Infants to Predict Sepsis](https://github.com/aidanlokeeffe/nicu_hrv_analysis), completed 1/19/2023.
+  3) [Bevonia: Princess Knight](https://aidanlokeeffe.github.io/Bevonia-Princess-Knight/), completed 12/9/2018. This is slow to load, but it will.
 
 ## Background
 I graduated from UT Austin in the spring of 2021 with:
