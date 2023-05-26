@@ -2,8 +2,9 @@ Hello! My name is Aidan O'Keeffe. I am a bachelors level mathematician, adept Py
 
 ## Ongoing activities
 Currently, I'm working on:
-  1) Learning VBA and GIS in preparation for a job (yay!),
-  2) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning)
+  1) Refining my skills for work, including SQL, Python, Excel, and PowerBI,
+  2) Google's _Advanced_ Data Analytics Career Certificate
+  3) Solidifying my knowledge of regression techniques by working through the book [_An Introduction to Statistical Learning_](https://github.com/aidanlokeeffe/intro-to-statistical-learning)
 
 ## Completed projects
 If you're interested in seeing any of my completed projects, here's a list of them in reverse chronological order:
