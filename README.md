@@ -5,9 +5,9 @@ I do hope that if I become a data scientist, I can use my skills to make big pos
 
 ## Ongoing activities
 I always have lots of ideas, which is why I have a bunch of repositories. Alas, you can only focus on so many things at once. My current activities, in order of priority, are:
-  1) Focusing on improving my technical skills for work
-  2) Progressing through Google's _Advanced_ Data Analytics Career Certificate
-  3) Trying out new ideas as they come for a network science research problem I've been working on for a few years
+  1) Focusing on performing well at work,
+  2) Progressing through [Google's _Advanced_ Data Analytics Career Certificate](https://github.com/aidanlokeeffe/advanced-data-analytics-certificate), and
+  3) Trying out new ideas as they come for a [network science research problem](https://github.com/aidanlokeeffe/bran-survival-analysis) I've been working on for a few years.
 
 ## Completed projects
 Excluding the things I do at work (which I can't share without clearing it with my manager first), these are the projects I've completed that I'm most proud of:
@@ -15,6 +15,8 @@ Excluding the things I do at work (which I can't share without clearing it with 
   2) [Bevonia: Princess Knight](https://aidanlokeeffe.github.io/Bevonia-Princess-Knight/), completed 12/9/2018. This is slow to load, but it will.
 
 ## Background
+For a more in-depth look at my professional activities, you can visit my [LinkedIn](https://www.linkedin.com/in/aidan-o-keeffe-683098139/).
+
 I graduated from UT Austin in the spring of 2021 with:
   1) A Bachelor of Science in Mathematics, and
   2) The Elements of Computing Certificate, a suite of courses in Python programming and computer science.
@@ -25,7 +27,7 @@ Of all my coursework, extracurriculars, and soft skills, those most relevant to 
   3) Dynamical systems, optimization, and numerical analysis, and
   4) Independent learning, research, and presentation skills.
 
-Since graduating, I have had ecclectic experiences in data science life in general:
+Since graduating, I've had ecclectic experiences in school, work, and life which have finally paid of in the form of a salaried data analyst position:
   1) Summer 2021: Completing an NSF funded research internship in network science,
   2) Fall 2021: Joining up with an AI consulting startup,
   3) Spring 2022: Bereavement and gearing up to return to school,
